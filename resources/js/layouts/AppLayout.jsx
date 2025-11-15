@@ -175,10 +175,10 @@ export default function AppLayout({ children }) {
                         {/* Footer Info */}
                         <div className="text-center lg:text-right">
                             <p className="text-sm font-semibold text-white">
-                                © 2025 Delcom Labs
+                                © 2025 Lola Gracea
                             </p>
                             <p className="text-xs text-blue-300">
-                                Built with Laravel + Inertia + React
+                                Belajar Laravel, Inertia, React
                             </p>
                         </div>
                     </div>
